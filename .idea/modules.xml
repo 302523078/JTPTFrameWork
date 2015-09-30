@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JTPTFrameWork.iml" filepath="$PROJECT_DIR$/JTPTFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtpt-biz/jtpt-biz.iml" filepath="$PROJECT_DIR$/jtpt-biz/jtpt-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtpt-core/jtpt-core.iml" filepath="$PROJECT_DIR$/jtpt-core/jtpt-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtpt-service-client/jtpt-service-client.iml" filepath="$PROJECT_DIR$/jtpt-service-client/jtpt-service-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtpt-service-impl/jtpt-service-impl.iml" filepath="$PROJECT_DIR$/jtpt-service-impl/jtpt-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtpt-web/jtpt-web.iml" filepath="$PROJECT_DIR$/jtpt-web/jtpt-web.iml" />
+    </modules>
+  </component>
+</project>
+
