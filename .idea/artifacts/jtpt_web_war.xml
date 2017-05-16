@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="jtpt-web:war">
-    <output-path>$PROJECT_DIR$/jtpt-web/target</output-path>
-    <root id="archive" name="jtpt-web.war">
-      <element id="artifact" artifact-name="jtpt-web:war exploded" />
-    </root>
-  </artifact>
-</component>
